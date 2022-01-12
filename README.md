@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://cdn.discordapp.com/attachments/930699895168446496/930700525522010112/99df6617935609.562c11d9b61f2.gif">
 </p>
 <p align="center">
     Reload
@@ -10,7 +10,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/848406429173940254.png"/>
 </p>
 <p align="center">
-Currently learning JavaScript
+Currently learning Lua
 <p align="center">
     <a href="https://discord.gg/gyJ756sUjw">Discord Server</a>
 
