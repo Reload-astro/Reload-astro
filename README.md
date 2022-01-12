@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/930699895168446496/930700525522010112/99df6617935609.562c11d9b61f2.gif">
+<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 </p>
 <p align="center">
     Reload
