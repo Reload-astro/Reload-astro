@@ -12,5 +12,5 @@
 <p align="center">
 Currently learning Lua
 <p align="center">
-    <a href="https://discord.gg/gyJ756sUjw">Discord Server</a>
+    <a href="https://discord.gg/JgTr3DZw4v">Discord Server</a>
 
