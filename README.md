@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=Reload&color=grey">
 </p>
     <p align="center">
-  <img src="[https://discord.c99.nl/widget/theme-4/848406429173940254.png](https://discord.c99.nl/widget/theme-4/848409614642970625.png)"/>
+  <img src="https://discord.c99.nl/widget/theme-4/848409614642970625.png"/>
 </p>
 <p align="center">
 Currently learning Lua
