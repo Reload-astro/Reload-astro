@@ -4,7 +4,7 @@
 <p align="center">
     Reload
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=Reload&color=black">
+<img src="https://komarev.com/ghpvc/?username=Reload&color=gray">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/1010730456154656819.png"/>
