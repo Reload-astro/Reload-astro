@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://tenor.com/view/juice-wrld-ewaste999-ju-gif-25376686">
 </p>
 <p align="center">
     Reload
