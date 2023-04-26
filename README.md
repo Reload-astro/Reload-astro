@@ -12,5 +12,5 @@
 <p align="center">
 Currently learning Python
 <p align="center">
-    <a href="https://discord.gg/JgTr3DZw4v">Discord Server</a>
+    <a href="https://discord.gg/WxN5hu7Pya">Discord Server</a>
 
